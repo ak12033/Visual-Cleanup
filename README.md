@@ -1,6 +1,6 @@
 # 🖼️ Background Remover Pro
 
-**Virtual Cleanup** is a full-stack image background removal application built with the **MERN stack**. It provides users with the ability to upload images and seamlessly remove their backgrounds using the **ClipDrop API**. The application features a **credit-based system powered by Razorpay**, where users purchase credits to remove images. It also integrates **Clerk** for secure authentication and user management.
+**Visual Cleanup** is a full-stack image background removal application built with the **MERN stack**. It provides users with the ability to upload images and seamlessly remove their backgrounds using the **ClipDrop API**. The application features a **credit-based system powered by Razorpay**, where users purchase credits to remove images. It also integrates **Clerk** for secure authentication and user management.
 
 ---
 
@@ -77,7 +77,7 @@ After securely logging in via **Clerk**, users can:
 
 ## Getting Started
 
-To get started with the Virtual Cleanup project, follow these steps:
+To get started with the Visual Cleanup project, follow these steps:
 
 1. Clone the repository from GitHub:
 
